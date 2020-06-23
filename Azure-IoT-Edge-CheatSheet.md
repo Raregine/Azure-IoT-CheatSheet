@@ -7,15 +7,15 @@ References:
  https://docs.microsoft.com/en-us/azure/iot-edge/troubleshoot
 
 ## Contents
-1. Register Microsoft key and software repository feed	
-2. Install the container runtime	
-3. Install the Azure IoT Edge Security Daemon	
-4. Configure the security daemon	
-5. Verify successful installation	
-6. Uninstall IoT Edge	
-7. Check container logs for issues	
-8. View the messages going through the IoT Edge hub	
-9. Check the status of the IoT Edge security manager and its logs	
+1. [Register Microsoft key and software repository feed](#register-microsoft-key-and-software-repository)	
+2. [Install the container runtime](#Install-the-container-runtime)	
+3. [Install the Azure IoT Edge Security Daemon](#install-the-azure-iot-edge-security-daemon)	
+4. [Configure the security daemon](#configure-the-security-daemon)	
+5. [Verify successful installation](#verify-successful-installation)	
+6. [Uninstall IoT Edge](#uninstall-iot-edge)	
+7. [Check container logs for issues](#check-container-logs-for-issues)	
+8. [View the messages going through the IoT Edge hub](#view-the-messages-going-through-the-iot-edge-hub)	
+9. [Check the status of the IoT Edge security manager and its logs](#check-the-status-of-the-iot-edge-security-manager-and-its-logs)	
 
 
 ## 1. Register Microsoft key and software repository feed
